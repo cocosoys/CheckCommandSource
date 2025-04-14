@@ -5,5 +5,5 @@ authors: [soys]
 description: find where a command comes from
 commands:
   checkcommandsource:
-    alise:
+    aliases:
       - checkms
