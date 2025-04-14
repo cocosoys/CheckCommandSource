@@ -1,0 +1,9 @@
+name: CheckCommandSource
+version: '${project.version}'
+main: soys.plugin.checkcommandsource.CheckCommandSource
+authors: [soys]
+description: find where a command comes from
+commands:
+  checkcommandsource:
+    alise:
+      - checkms
